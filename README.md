@@ -13,4 +13,4 @@ https://github.com/yamadatestsan/kadai2.git
 
 (3)$ rosrun mypkg twice.py を別ターミナルで入力
 
-(4)$ rostopic echo /twice を別ターミナルで行い, 二倍になった数字が端末上に表示される。
+(4)$ rostopic echo /twice を別ターミナルで実行し, 二倍になった数字が端末上に表示される。
